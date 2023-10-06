@@ -1,0 +1,40 @@
+body{
+    background-color: aqua;
+    margin: 0%;
+    padding: 0%;
+}
+
+.okenka{
+    margin: 16px;
+    background-color: blueviolet;
+    padding: 16px;
+    border-radius: 16px;
+    border: 3px outset rgb(0, 0, 0);
+   
+
+}
+
+#Text1{
+    color: white;
+    text-align: justify;
+}
+ #Text2{
+    color: red;
+    text-align: right;
+ }
+h1{
+    text-align: center;
+ }
+ header{
+    background-color: azure;
+    text-align: center;
+}
+ h3{
+    background-color: white;
+    margin: 0%;
+ }
+ footer{
+    background-color: white;
+    text-align: justify;
+    padding: 20px;
+   }
